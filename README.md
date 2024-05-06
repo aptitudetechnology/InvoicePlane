@@ -19,6 +19,9 @@ still developed in our free time, as a hobby. We do your best to fulfill any leg
 cannot make sure that the app is working 100% correct. Also, due to the fact that InvoicePlane is a free and open
 source software without an income, there are no professional audits of the app yet.
 
+This fork aims to port the project to Codeigniter 4 using <a href="https://github.com/kenjis/ci3-to-4-upgrade-helper">ci3-to-4-upgrade-helper</a>.
+
+
 ---
 
 ### Quick Installation
