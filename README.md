@@ -25,6 +25,10 @@ Please note I was unable to install the latest version of ci4-app-template with 
 
 composer create-project kenjis/ci4-app-template=v43.2.0 projectname
 
+For more information please see:
+
+https://github.com/kenjis/ci3-to-4-upgrade-helper/blob/1.x/docs/HowToUpgradeFromCI3ToCI4.md#install-codeigniter4
+
 ---
 
 ### Quick Installation
