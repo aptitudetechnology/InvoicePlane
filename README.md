@@ -21,7 +21,7 @@ source software without an income, there are no professional audits of the app y
 
 This fork aims to port the project to Codeigniter 4 using <a href="https://github.com/kenjis/ci3-to-4-upgrade-helper">ci3-to-4-upgrade-helper</a>.
 
-Please note I was unable to install the latest version of ci4-app-template with php 8.2. The work around was to install the previous version:
+Please note I was unable to install the latest version of ci4-app-template with php 8.1. The work around was to install the previous version:
 
 composer create-project kenjis/ci4-app-template=v43.2.0 projectname
 
