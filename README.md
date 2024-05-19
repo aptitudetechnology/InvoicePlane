@@ -23,7 +23,7 @@ This fork aims to port the project to Codeigniter 4 using <a href="https://githu
 
 Please note I was unable to install the latest version of ci4-app-template with php 8.2. The work around was to install the previous version:
 
-composer create-project kenjis/ci4-app-template=v44.3.2 projectname
+composer create-project kenjis/ci4-app-template=v43.2.0 projectname
 
 ---
 
